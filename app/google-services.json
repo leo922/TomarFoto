@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "517126876811",
+    "firebase_url": "https://also-3c071.firebaseio.com",
+    "project_id": "also-3c071",
+    "storage_bucket": "also-3c071.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:517126876811:android:71ed7c249a32461a",
+        "android_client_info": {
+          "package_name": "com.example.leonardo.tomarfoto"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "517126876811-1ptgbohj4lkdrp4nleuhtrdal2ml7e0b.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCAopEFTFbLzzMF9NPf44Ta5eLhoDVy8YI"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
